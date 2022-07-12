@@ -75,13 +75,10 @@ banner() {
                 ${PINK}╰━━╮┃╭━━╯┃┃┃┃╭━┫┃╰╮┃┃╭━━┫┃╱┃┃╭╮╭┻━━╮┃
                 ${PINK}┃╰━╯┃╰━━┳┫┣┫╰┻━┃┃╱┃┃┃╰━━┫╰━╯┃┃┃╰┫╰━╯┃
                 ${PINK}╰━━━┻━━━┻━━┻━━━┻╯╱╰━┻━━━┻━━━┻╯╰━┻━━━╯
-                                                 ${RED}Version-1.0
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
-	EOF
-}
-
+                                                 ${BLACK}VERSION-1.0 ${PINK}MY INSTA-@btshaterxd
+                                                 ${RED}SEIGNEURS ON TOP {PINK}CREDIT-HTR TECH ZPHISHER
 ## Small Banner
-banner_small() {
+banner_small()
 	cat <<- EOF
 	
                         ${BLUE}  █▀ █▀▀ █ █▀▀ █▄░█ █▀▀ █░█ █▀█ █▀
