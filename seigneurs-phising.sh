@@ -75,10 +75,14 @@ banner() {
                 ${PINK}╰━━╮┃╭━━╯┃┃┃┃╭━┫┃╰╮┃┃╭━━┫┃╱┃┃╭╮╭┻━━╮┃
                 ${PINK}┃╰━╯┃╰━━┳┫┣┫╰┻━┃┃╱┃┃┃╰━━┫╰━╯┃┃┃╰┫╰━╯┃
                 ${PINK}╰━━━┻━━━┻━━┻━━━┻╱╰━┻━━━┻━━━┻╯╰━┻━━━╯
-                                             ${RED}INSTA-@btshaterxd
-                                           ${RED}seigneurs on top
-                                          ${RED}CREDIT-htrtech
-## Small Banner
+                                       ${RED}VERSION-1.0
+		
+	EOF
+}
+
+                            
+                                  
+## Small Banner 
 banner_small()
 	cat <<- EOF
 	
