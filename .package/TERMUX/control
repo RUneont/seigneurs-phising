@@ -1,8 +1,8 @@
-Package: zphisher
-Version: 2.2
+Package: SEIGNEURS-PHISING
+Version: 1.0
 Installed-Size: 9400
 Architecture: all
 Maintainer: @htr-tech
 Depends: php, wget, git, curl, resolv-conf, proot
-Homepage: https://github.com/htr-tech/zphisher
+Homepage: https://github.com/RUneont/seigneurs-phising
 Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
