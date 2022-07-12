@@ -83,7 +83,7 @@ banner() {
                             
                                   
 ## Small Banner 
-banner_small()
+banner_small() {
 	cat <<- EOF
 	
                         ${BLUE}  █▀ █▀▀ █ █▀▀ █▄░█ █▀▀ █░█ █▀█ █▀
